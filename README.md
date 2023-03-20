@@ -1,5 +1,5 @@
 <h1 align="center">Hello there peeps 👋,I'm Vardhan</h1>
-<h3 align="center">A enthusiastic Machine Learning developer</h3>
+<h3 align="center">An enthusiastic Machine Learning developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk24-hash&label=Profile%20views&color=0e75b6&style=flat" alt="vk24-hash" /> </p>
 
